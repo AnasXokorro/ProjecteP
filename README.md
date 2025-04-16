@@ -1,2 +1,0 @@
-# ProjecteP
-Projecte Personal
