@@ -37,13 +37,6 @@ cat > "${PLUGIN_DIR}/plugin-anas.php" << 'EOL'
 <?php
 /**
  * Plugin Name: PluginAnas
- * Plugin URI: https://ejemplo.com/plugin-anas
- * Description: Un plugin sencillo para WordPress con funcionalidades básicas.
- * Version: 1.0.0
- * Author: Tu Nombre
- * Author URI: https://ejemplo.com
- * Text Domain: plugin-anas
- * Domain Path: /languages
  * License: GPL v2 o posterior
  */
 
